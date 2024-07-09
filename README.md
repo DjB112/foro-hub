@@ -62,6 +62,7 @@ Para acceder a la mayoría de los endpoints, necesitas autenticarte con un token
 ## Configuración
 > [!IMPORTANT]
 > Asegúrate de tener MySQL instalado y crea una base de datos llamada foro_hub. Configura los detalles de conexión a la base de datos en application.properties o application.yml.
+> 
 ![variables_entorno](https://github.com/DjB112/foro-hub/assets/131042234/868ea6dc-bd7b-4968-9afa-0cdf5d0d6a3e)
 
 
