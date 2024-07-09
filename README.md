@@ -60,6 +60,9 @@ Para acceder a la mayoría de los endpoints, necesitas autenticarte con un token
  "clave": "String"
  }
 
+![insomnia_resp](https://github.com/DjB112/foro-hub/assets/131042234/0f1ad5d4-6806-4d30-b206-332be4281bc7)
+
+
 ## Configuración
 > [!IMPORTANT]
 > Asegúrate de tener MySQL instalado y crea una base de datos llamada foro_hub. Configura los detalles de conexión a la base de datos en application.properties o application.yml.
