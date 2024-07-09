@@ -1,6 +1,6 @@
 ### [ ES ] ![Static Badge](https://img.shields.io/badge/Technology-java-spring) ![Static Badge](https://img.shields.io/badge/Technology-git-hub) ![Static Badge](https://img.shields.io/badge/Technology-spring-api) ![Static Badge](https://img.shields.io/badge/DBA-SQL-3?style=flat&logo=SQL&logoColor=gold&color=%23B79623) ![Static Badge](https://img.shields.io/badge/Spring-Security-web) ![Static Badge](https://img.shields.io/badge/DBA-Flayway-web)
 
-![image](https://github.com/DjB112/foro-hub/assets/131042234/1d66e69c-f248-4b61-9721-72c6aa83c85e)
+![image align="center"](https://github.com/DjB112/foro-hub/assets/131042234/1d66e69c-f248-4b61-9721-72c6aa83c85e)
 
 
 <p align="center"> <h1 align="center">Alura Foro Hub Challenge</h1>
