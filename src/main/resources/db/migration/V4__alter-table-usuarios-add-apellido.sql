@@ -1,0 +1,1 @@
+alter table usuarios add apellido varchar(150) not null;
